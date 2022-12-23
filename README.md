@@ -16,4 +16,7 @@ To decrypt a file:
 3. now you find your decoded text in the file output_decoded.txt
 
 To generate a new key:
-1. you must be sure that you have in key.txt in the first line ist of letter ans other symols for example: a|b|c|d|e...x|y|z|1|2|3...8|9|0
+1. you must be sure that you have in key.txt in the first line letters or other symols for example: a|b|c|d|e...x|y|z|1|2|3...8|9|0
+2. run key_generator.py
+3. now there is in new_key.txt a new key
+4. copy the key in the second line of key.txt to have a new random genrated key
